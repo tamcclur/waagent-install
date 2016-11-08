@@ -12,9 +12,13 @@ Currently this is know to work on CentOS 7.x and Ubuntu 14.04. This should be co
 ### Usage
 
 Clone into your VM.
-`git clone https://github.com/tamcclur/waagent-install.git`
+```
+git clone https://github.com/tamcclur/waagent-install.git
+```
 
 Run as sudo or root.
-`sudo ./waagent.sh`
+```
+sudo ./waagent.sh
+```
 
 You should see it complete successfully.
